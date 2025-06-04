@@ -86,7 +86,7 @@
       },
       {
         "title": "Verify SSL",
-        "tooltip": "Specifies whether the SSL certificate for the server is to be verified or not. By default, this option is set to True."
+        "tooltip": "Specifies whether the SSL certificate for the server is to be verified or not. By default, this option is set to True.",
         "required": false,
         "editable": true,
         "visible": true,
